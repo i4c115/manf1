@@ -15,7 +15,7 @@ client.on('ready', () => {
     .setType('LISTENING')
     .setName("I'm worn out");
 
-  const largeImage = "https://media.discordapp.net/attachments/1539752870164041780/1550146563337224242/IMG_2513.jpg";
+  const largeImage = "https://media.discordapp.net/attachments/1539752870164041780/1550146563337224242/IMG_2513.jpg?ex=6aad45fd&is=6aabf47d&hm=12155892b3750ec5953902aeb7982b5c3a9c94b28ea85049fcef5e07a6d724b7&=&format=webp";
   if (largeImage) r.setAssetsLargeImage(largeImage);
 
   client.user.setPresence({ activities: [r] });
