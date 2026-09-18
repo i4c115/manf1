@@ -1,0 +1,9 @@
+{
+  "name": "discord-presence",
+  "version": "1.0.0",
+  "main": "account1.js",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.4.1",
+    "express": "^4.18.2"
+  }
+}
